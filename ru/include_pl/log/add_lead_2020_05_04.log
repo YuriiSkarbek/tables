@@ -1,0 +1,3355 @@
+
+------------------------
+2020.05.04 1:34:56
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Галина
+            [OPPORTUNITY] => 380
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0985160421
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Коричневий, розмір стандарт, ламінація, ПВХ, надпис: вулиця Сагайдачного 19  До закінчення акції 00 днів :22 годин :25 хвилин :54 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_katay
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 1:34:57
+ADD_LEAD
+Array
+(
+    [result] => 42371
+    [time] => Array
+        (
+            [start] => 1588545296.5227
+            [finish] => 1588545297.4655
+            [duration] => 0.94288277626038
+            [processing] => 0.91342115402222
+            [date_start] => 2020-05-04T01:34:56+03:00
+            [date_finish] => 2020-05-04T01:34:57+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 1:36:23
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Галина 
+            [OPPORTUNITY] => 380
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0985160421
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Червоний, розмір стандарт, ламінація, ПВХ, надпис: вулиця Сагайдачного 6  До закінчення акції 00 днів :22 годин :23 хвилин :55 секунд
+            [UTM_SOURCE] => 
+            [UTM_MEDIUM] => 
+            [UTM_CAMPAIGN] => 
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 1:36:24
+ADD_LEAD
+Array
+(
+    [result] => 42373
+    [time] => Array
+        (
+            [start] => 1588545383.4608
+            [finish] => 1588545384.1684
+            [duration] => 0.70756888389587
+            [processing] => 0.68585395812988
+            [date_start] => 2020-05-04T01:36:23+03:00
+            [date_finish] => 2020-05-04T01:36:24+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 7:07:44
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Віталій
+            [OPPORTUNITY] => 280
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0666746356
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-04, колір  Синій, розмір стандарт, ламінація, ПВХ, кріплення для цегли, надпис: вулиця Лісова  12  До закінчення акції 00 днів :16 годин :52 хвилин :34 секунд 
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => ssilka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 7:07:45
+ADD_LEAD
+Array
+(
+    [result] => 42381
+    [time] => Array
+        (
+            [start] => 1588565264.6124
+            [finish] => 1588565265.4271
+            [duration] => 0.81473088264465
+            [processing] => 0.78983116149902
+            [date_start] => 2020-05-04T07:07:44+03:00
+            [date_finish] => 2020-05-04T07:07:45+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 7:11:10
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Вита
+            [OPPORTUNITY] => 240
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 80508502247
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-05, колір  Коричневий, розмір стандарт, ламінація, ПВХ, надпис: Переулок Крутой 24  До закінчення акції 00 днів :16 годин :49 хвилин :13 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 7:11:11
+ADD_LEAD
+Array
+(
+    [result] => 42383
+    [time] => Array
+        (
+            [start] => 1588565470.6536
+            [finish] => 1588565471.3965
+            [duration] => 0.74282097816467
+            [processing] => 0.72640705108643
+            [date_start] => 2020-05-04T07:11:10+03:00
+            [date_finish] => 2020-05-04T07:11:11+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 7:39:38
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Антонина корнейчук
+            [OPPORTUNITY] => 400
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0682328683
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-08, колір  Темно-зелений, розмір стандарт, ламінація, ПВХ, надпис:  Шоссейна 100  До закінчення акції 00 днів :16 годин :20 хвилин :59 секунд
+            [UTM_SOURCE] => inst
+            [UTM_MEDIUM] => alla1-looklike400-bilshe
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 7:39:39
+ADD_LEAD
+Array
+(
+    [result] => 42385
+    [time] => Array
+        (
+            [start] => 1588567179.0326
+            [finish] => 1588567179.828
+            [duration] => 0.79536890983582
+            [processing] => 0.77962112426758
+            [date_start] => 2020-05-04T07:39:39+03:00
+            [date_finish] => 2020-05-04T07:39:39+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 8:36:10
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Сергей 
+            [OPPORTUNITY] => 330
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0506101243
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-01, колір  Коричневий, розмір стандарт, ламінація, ПВХ, надпис: вулиця Дніпрельстанівська 53  До закінчення акції 00 днів :15 годин :24 хвилин :19 секунд
+            [UTM_SOURCE] => 
+            [UTM_MEDIUM] => 
+            [UTM_CAMPAIGN] => 
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 8:36:11
+ADD_LEAD
+Array
+(
+    [result] => 42391
+    [time] => Array
+        (
+            [start] => 1588570570.7771
+            [finish] => 1588570571.5751
+            [duration] => 0.79798698425293
+            [processing] => 0.77836298942566
+            [date_start] => 2020-05-04T08:36:10+03:00
+            [date_finish] => 2020-05-04T08:36:11+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 9:01:23
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Оксана
+            [OPPORTUNITY] => 450
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0503510055
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-08, колір  Бордовий, розмір стандарт, ламінація, свердління дірок, ПВХ, надпис: Провулок Софіівський 12  До закінчення акції 00 днів :14 годин :58 хвилин :54 секунд 
+            [UTM_SOURCE] => inst
+            [UTM_MEDIUM] => alla1-looklike400-bilshe
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 9:01:24
+ADD_LEAD
+Array
+(
+    [result] => 42397
+    [time] => Array
+        (
+            [start] => 1588572083.7583
+            [finish] => 1588572084.6464
+            [duration] => 0.88810801506042
+            [processing] => 0.87083983421326
+            [date_start] => 2020-05-04T09:01:23+03:00
+            [date_finish] => 2020-05-04T09:01:24+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 10:18:40
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Галя
+            [OPPORTUNITY] => 330
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0966509683
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-01, колір  Бордовий, розмір стандарт, ламінація, ПВХ, надпис: вулиця Огородова 1  До закінчення акції 00 днів :13 годин :41 хвилин :44 секунд
+            [UTM_SOURCE] => inst
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 10:18:41
+ADD_LEAD
+Array
+(
+    [result] => 42409
+    [time] => Array
+        (
+            [start] => 1588576720.3647
+            [finish] => 1588576721.3775
+            [duration] => 1.012815952301
+            [processing] => 0.98263788223267
+            [date_start] => 2020-05-04T10:18:40+03:00
+            [date_finish] => 2020-05-04T10:18:41+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 10:35:36
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Неля
+            [OPPORTUNITY] => 870
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0685127931
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-01, колір  Оранжевий (світловідбиваючий), розмір стандарт, ламінація, комозит, надпис: вулиця Зарічна 24  До закінчення акції 00 днів :13 годин :25 хвилин :02 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 29-04-katya-1
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 10:35:37
+ADD_LEAD
+Array
+(
+    [result] => 42411
+    [time] => Array
+        (
+            [start] => 1588577736.8401
+            [finish] => 1588577737.8781
+            [duration] => 1.0380070209503
+            [processing] => 1.0131859779358
+            [date_start] => 2020-05-04T10:35:36+03:00
+            [date_finish] => 2020-05-04T10:35:37+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 11:05:52
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Володимир
+            [OPPORTUNITY] => 380
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0956811606
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Коричневий, розмір стандарт, ламінація, ПВХ, надпис: вулиця Польова 40-а  До закінчення акції 00 днів :12 годин :54 хвилин :24 секунд 
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_katay
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 11:05:54
+ADD_LEAD
+Array
+(
+    [result] => 42423
+    [time] => Array
+        (
+            [start] => 1588579553.0957
+            [finish] => 1588579554.2884
+            [duration] => 1.1926860809326
+            [processing] => 1.1662569046021
+            [date_start] => 2020-05-04T11:05:53+03:00
+            [date_finish] => 2020-05-04T11:05:54+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 11:07:16
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Володимир
+            [OPPORTUNITY] => 380
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0956811606
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Синій, розмір стандарт, ламінація, ПВХ, надпис: вулиця Польова 40  До закінчення акції 00 днів :12 годин :53 хвилин :02 секунд 
+            [UTM_SOURCE] => 
+            [UTM_MEDIUM] => 
+            [UTM_CAMPAIGN] => 
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 11:07:17
+ADD_LEAD
+Array
+(
+    [result] => 42425
+    [time] => Array
+        (
+            [start] => 1588579636.6417
+            [finish] => 1588579637.4471
+            [duration] => 0.8053719997406
+            [processing] => 0.78818202018738
+            [date_start] => 2020-05-04T11:07:16+03:00
+            [date_finish] => 2020-05-04T11:07:17+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 11:19:24
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Татьяна 
+            [OPPORTUNITY] => 380
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0971822110
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Бордовый, розмір стандарт, ламінація, ПВХ, надпис: вулиця Магістральна 24/В  До окончания акции 00 дней :12 часов :39 минут :08 секунд
+            [UTM_SOURCE] => fb_ru
+            [UTM_MEDIUM] => 2video_katay
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 11:19:25
+ADD_LEAD
+Array
+(
+    [result] => 42429
+    [time] => Array
+        (
+            [start] => 1588580365.136
+            [finish] => 1588580365.9558
+            [duration] => 0.81976509094238
+            [processing] => 0.79247117042542
+            [date_start] => 2020-05-04T11:19:25+03:00
+            [date_finish] => 2020-05-04T11:19:25+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 11:32:59
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Олена
+            [OPPORTUNITY] => 700
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 380986151170
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-03, колір  Зелений (світловідбиваючий), розмір стандарт, ламінація, ПВХ, надпис: вулиця Лісова 23  До закінчення акції 00 днів :12 годин :28 хвилин :16 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 11:33:00
+ADD_LEAD
+Array
+(
+    [result] => 42437
+    [time] => Array
+        (
+            [start] => 1588581179.6486
+            [finish] => 1588581180.7503
+            [duration] => 1.1016628742218
+            [processing] => 1.0682001113892
+            [date_start] => 2020-05-04T11:32:59+03:00
+            [date_finish] => 2020-05-04T11:33:00+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 11:55:45
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Михайло
+            [OPPORTUNITY] => 350
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0938312422
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-03, колір  Коричневый, розмір стандарт, ламінація, ПВХ, надпис: вулиця Дружби 32  До окончания акции 00 дней :12 часов :04 минут :41 секунд 
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => pidpis
+            [UTM_CAMPAIGN] => 
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 11:55:46
+ADD_LEAD
+Array
+(
+    [result] => 42449
+    [time] => Array
+        (
+            [start] => 1588582545.3257
+            [finish] => 1588582546.3541
+            [duration] => 1.0284469127655
+            [processing] => 0.99085187911987
+            [date_start] => 2020-05-04T11:55:45+03:00
+            [date_finish] => 2020-05-04T11:55:46+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 12:33:11
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Константин
+            [OPPORTUNITY] => 240
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0930452222
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-06, колір  Коричневий, розмір стандарт, ламінація, ПВХ, надпис: улица Я. Галана 11  До закінчення акції 00 днів :11 годин :27 хвилин :13 секунд
+            [UTM_SOURCE] => inst
+            [UTM_MEDIUM] => alla1-looklike400-bilshe
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 12:33:12
+ADD_LEAD
+Array
+(
+    [result] => 42459
+    [time] => Array
+        (
+            [start] => 1588584791.9086
+            [finish] => 1588584792.6951
+            [duration] => 0.78647112846375
+            [processing] => 0.76550197601318
+            [date_start] => 2020-05-04T12:33:11+03:00
+            [date_finish] => 2020-05-04T12:33:12+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 12:59:13
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Татьяна
+            [OPPORTUNITY] => 380
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0639304651
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Синій, розмір стандарт, ламінація, ПВХ, надпис: Переулок Синельниковский 8  До закінчення акції 00 днів :11 годин :01 хвилин :11 секунд
+            [UTM_SOURCE] => inst
+            [UTM_MEDIUM] => alla1-looklike400-bilshe
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 12:59:14
+ADD_LEAD
+Array
+(
+    [result] => 42465
+    [time] => Array
+        (
+            [start] => 1588586354.0773
+            [finish] => 1588586354.9553
+            [duration] => 0.87794589996338
+            [processing] => 0.85532593727112
+            [date_start] => 2020-05-04T12:59:14+03:00
+            [date_finish] => 2020-05-04T12:59:14+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 13:00:19
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Олександр
+            [OPPORTUNITY] => 430
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0931240435
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Бордовий, розмір стандарт, ламінація, свердління дірок, ПВХ, надпис: вулиця Островського 53 Б  До закінчення акції 00 днів :11 годин :00 хвилин :04 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 13:00:20
+ADD_LEAD
+Array
+(
+    [result] => 42467
+    [time] => Array
+        (
+            [start] => 1588586419.3052
+            [finish] => 1588586420.2719
+            [duration] => 0.96668982505798
+            [processing] => 0.9469621181488
+            [date_start] => 2020-05-04T13:00:19+03:00
+            [date_finish] => 2020-05-04T13:00:20+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 13:26:43
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Лиля
+            [OPPORTUNITY] => 240
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0967199518
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-05, колір  Голубий, розмір стандарт, ламінація, ПВХ, надпис: вулиця Сагайдачного 4  До закінчення акції 00 днів :10 годин :33 хвилин :39 секунд
+            [UTM_SOURCE] => inst
+            [UTM_MEDIUM] => alla1-looklike400-bilshe
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 13:26:44
+ADD_LEAD
+Array
+(
+    [result] => 42485
+    [time] => Array
+        (
+            [start] => 1588588003.1823
+            [finish] => 1588588004.1475
+            [duration] => 0.96512198448181
+            [processing] => 0.9432520866394
+            [date_start] => 2020-05-04T13:26:43+03:00
+            [date_finish] => 2020-05-04T13:26:44+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 13:28:45
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Иван
+            [OPPORTUNITY] => 380
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0989634010
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Синій, розмір стандарт, ламінація, ПВХ, надпис: вулиця Мадара 28  До закінчення акції 00 днів :11 годин :32 хвилин :01 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_katay
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 13:28:46
+ADD_LEAD
+Array
+(
+    [result] => 42489
+    [time] => Array
+        (
+            [start] => 1588588125.959
+            [finish] => 1588588126.7877
+            [duration] => 0.82865500450134
+            [processing] => 0.80653595924377
+            [date_start] => 2020-05-04T13:28:45+03:00
+            [date_finish] => 2020-05-04T13:28:46+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 13:47:23
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Наталія
+            [OPPORTUNITY] => 460
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0689699083
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Коричневий, розмір стандарт, ламінація, свердління дірок, наклейки, ПВХ, надпис: вулиця Сонячна 1  До закінчення акції 00 днів :10 годин :14 хвилин :29 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => ssilka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 13:47:24
+ADD_LEAD
+Array
+(
+    [result] => 42493
+    [time] => Array
+        (
+            [start] => 1588589243.2493
+            [finish] => 1588589244.1774
+            [duration] => 0.92814493179321
+            [processing] => 0.89979887008667
+            [date_start] => 2020-05-04T13:47:23+03:00
+            [date_finish] => 2020-05-04T13:47:24+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 13:50:27
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Павло
+            [OPPORTUNITY] => 330
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0962033218
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-01, колір  Бордовий, розмір стандарт, ламінація, ПВХ, надпис: шосе Нігинське 30и  До закінчення акції 00 днів :10 годин :09 хвилин :55 секунд 
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 13:50:28
+ADD_LEAD
+Array
+(
+    [result] => 42495
+    [time] => Array
+        (
+            [start] => 1588589427.4422
+            [finish] => 1588589428.2587
+            [duration] => 0.81644606590271
+            [processing] => 0.79595804214478
+            [date_start] => 2020-05-04T13:50:27+03:00
+            [date_finish] => 2020-05-04T13:50:28+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 13:52:03
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => 
+            [EMAIL] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => До закінчення акції 00 днів :10 годин :08 хвилин :15 секунд 
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 13:52:04
+ADD_LEAD
+Array
+(
+    [result] => 42497
+    [time] => Array
+        (
+            [start] => 1588589523.9337
+            [finish] => 1588589524.8604
+            [duration] => 0.92677903175354
+            [processing] => 0.90217208862305
+            [date_start] => 2020-05-04T13:52:03+03:00
+            [date_finish] => 2020-05-04T13:52:04+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 14:13:12
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Котляр Інна 
+            [OPPORTUNITY] => 380
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0660263513
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-03, колір  Темно-зелений, розмір стандарт, ламінація, наклейки, ПВХ, надпис: вулиця Шкільна 65/56  До закінчення акції 00 днів :09 годин :47 хвилин :54 секунд
+            [UTM_SOURCE] => 
+            [UTM_MEDIUM] => 
+            [UTM_CAMPAIGN] => 
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 14:13:13
+ADD_LEAD
+Array
+(
+    [result] => 42511
+    [time] => Array
+        (
+            [start] => 1588590793.1628
+            [finish] => 1588590793.9835
+            [duration] => 0.82071685791016
+            [processing] => 0.78753304481506
+            [date_start] => 2020-05-04T14:13:13+03:00
+            [date_finish] => 2020-05-04T14:13:13+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 14:20:45
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Олег
+            [OPPORTUNITY] => 430
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0674233056
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Бордовый, розмір стандарт, ламінація, свердління дірок, ПВХ, надпис: вулиця Княгині Ольги 4  До окончания акции 00 дней :09 часов :40 минут :26 секунд
+            [UTM_SOURCE] => fb_ru
+            [UTM_MEDIUM] => 2video_katay
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 14:20:47
+ADD_LEAD
+Array
+(
+    [result] => 42513
+    [time] => Array
+        (
+            [start] => 1588591246.0084
+            [finish] => 1588591247.1391
+            [duration] => 1.1307179927826
+            [processing] => 1.1069369316101
+            [date_start] => 2020-05-04T14:20:46+03:00
+            [date_finish] => 2020-05-04T14:20:47+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 14:55:18
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Олександр
+            [OPPORTUNITY] => 380
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 80506443560
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Коричневий, розмір стандарт, ламінація, ПВХ, надпис: вулиця Чкалова 48  До закінчення акції 00 днів :09 годин :05 хвилин :27 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => alla1-looklike400-bilshe
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 14:55:19
+ADD_LEAD
+Array
+(
+    [result] => 42527
+    [time] => Array
+        (
+            [start] => 1588593318.7146
+            [finish] => 1588593319.7194
+            [duration] => 1.0047631263733
+            [processing] => 0.98202896118164
+            [date_start] => 2020-05-04T14:55:18+03:00
+            [date_finish] => 2020-05-04T14:55:19+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 15:22:15
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Юрій
+            [OPPORTUNITY] => 380
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0984403086
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Коричневий, розмір стандарт, ламінація, ПВХ, надпис: вулиця Незалежності 125 А  До закінчення акції 00 днів :08 годин :38 хвилин :42 секунд 
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 15:22:16
+ADD_LEAD
+Array
+(
+    [result] => 42539
+    [time] => Array
+        (
+            [start] => 1588594935.6386
+            [finish] => 1588594936.501
+            [duration] => 0.86233997344971
+            [processing] => 0.83873510360718
+            [date_start] => 2020-05-04T15:22:15+03:00
+            [date_finish] => 2020-05-04T15:22:16+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 15:44:30
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Екатерина
+            [OPPORTUNITY] => 330
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0669668112
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-01, колір  Темно-зелений, розмір стандарт, ламінація, ПВХ, надпис: улица Офицерская 26А  До закінчення акції 00 днів :08 годин :16 хвилин :20 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 15:44:31
+ADD_LEAD
+Array
+(
+    [result] => 42551
+    [time] => Array
+        (
+            [start] => 1588596270.6967
+            [finish] => 1588596271.5901
+            [duration] => 0.89341998100281
+            [processing] => 0.86301898956299
+            [date_start] => 2020-05-04T15:44:30+03:00
+            [date_finish] => 2020-05-04T15:44:31+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 16:02:58
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Віктор
+            [OPPORTUNITY] => 380
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0662916035
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Коричневий, розмір стандарт, ламінація, ПВХ, надпис: вулиця Кокчетавська 44/1  До закінчення акції 00 днів :07 годин :56 хвилин :59 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 16:02:59
+ADD_LEAD
+Array
+(
+    [result] => 42559
+    [time] => Array
+        (
+            [start] => 1588597378.5912
+            [finish] => 1588597379.4342
+            [duration] => 0.84297108650208
+            [processing] => 0.82026696205139
+            [date_start] => 2020-05-04T16:02:58+03:00
+            [date_finish] => 2020-05-04T16:02:59+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 16:31:26
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Катя
+            [OPPORTUNITY] => 380
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0938856860
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Темно-зелений, розмір стандарт, ламінація, ПВХ, надпис: 125-а Садова 23  До закінчення акції 00 днів :07 годин :29 хвилин :04 секунд
+            [UTM_SOURCE] => inst
+            [UTM_MEDIUM] => direkt
+            [UTM_CAMPAIGN] => ssilka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 16:31:27
+ADD_LEAD
+Array
+(
+    [result] => 42569
+    [time] => Array
+        (
+            [start] => 1588599087.0646
+            [finish] => 1588599087.8696
+            [duration] => 0.80493497848511
+            [processing] => 0.77715802192688
+            [date_start] => 2020-05-04T16:31:27+03:00
+            [date_finish] => 2020-05-04T16:31:27+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 16:34:51
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Лена
+            [OPPORTUNITY] => 240
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0638914501
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-05, колір  Синій, розмір стандарт, ламінація, ПВХ, надпис: вулиця Пiдбiрна 12  До закінчення акції 00 днів :07 годин :25 хвилин :28 секунд
+            [UTM_SOURCE] => inst
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 16:34:52
+ADD_LEAD
+Array
+(
+    [result] => 42575
+    [time] => Array
+        (
+            [start] => 1588599292.0515
+            [finish] => 1588599292.905
+            [duration] => 0.85349917411804
+            [processing] => 0.8314311504364
+            [date_start] => 2020-05-04T16:34:52+03:00
+            [date_finish] => 2020-05-04T16:34:52+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 16:56:43
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Богдан
+            [OPPORTUNITY] => 420
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0675365733
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Бордовий, розмір стандарт, ламінація, ПВХ, кріплення для профнастилу, надпис: вулиця Ватутіна 6  До закінчення акції 00 днів :07 годин :03 хвилин :36 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 16:56:44
+ADD_LEAD
+Array
+(
+    [result] => 42593
+    [time] => Array
+        (
+            [start] => 1588600603.8628
+            [finish] => 1588600604.8947
+            [duration] => 1.031956911087
+            [processing] => 1.003212928772
+            [date_start] => 2020-05-04T16:56:43+03:00
+            [date_finish] => 2020-05-04T16:56:44+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 16:58:07
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Вікторія
+            [OPPORTUNITY] => 280
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0635360737
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-04, колір  Коричневий, розмір стандарт, ламінація, ПВХ, кріплення для цегли, надпис: вулиця Пастера 1/3  До закінчення акції 00 днів :07 годин :02 хвилин :37 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 16:58:08
+ADD_LEAD
+Array
+(
+    [result] => 42595
+    [time] => Array
+        (
+            [start] => 1588600687.1556
+            [finish] => 1588600688.0712
+            [duration] => 0.91552782058716
+            [processing] => 0.8956081867218
+            [date_start] => 2020-05-04T16:58:07+03:00
+            [date_finish] => 2020-05-04T16:58:08+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 17:44:09
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Дмитро
+            [OPPORTUNITY] => 400
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0634350334
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-07, колір  Тёмно-зелёный, розмір стандарт, ламінація, ПВХ, надпис: вулиця Європейська 5  До окончания акции 00 дней :06 часов :16 минут :27 секунд
+            [UTM_SOURCE] => fb_ru
+            [UTM_MEDIUM] => 2video_katay
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 17:44:10
+ADD_LEAD
+Array
+(
+    [result] => 42603
+    [time] => Array
+        (
+            [start] => 1588603449.294
+            [finish] => 1588603450.1062
+            [duration] => 0.81218600273132
+            [processing] => 0.78571605682373
+            [date_start] => 2020-05-04T17:44:09+03:00
+            [date_finish] => 2020-05-04T17:44:10+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 18:00:48
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Артем
+            [OPPORTUNITY] => 380
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0675578512
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Коричневий, розмір стандарт, ламінація, ПВХ, надпис: Вулиця Шевченко 140  До закінчення акції 00 днів :05 годин :59 хвилин :49 секунд
+            [UTM_SOURCE] => inst
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 18:00:51
+ADD_LEAD
+Array
+(
+    [result] => 42609
+    [time] => Array
+        (
+            [start] => 1588604449.1013
+            [finish] => 1588604450.2718
+            [duration] => 1.1705501079559
+            [processing] => 1.1474461555481
+            [date_start] => 2020-05-04T18:00:49+03:00
+            [date_finish] => 2020-05-04T18:00:50+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 18:34:28
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Сергій
+            [OPPORTUNITY] => 320
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0503628220
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-05, колір  Синій, розмір стандарт, ламінація, свердління дірок, наклейки, ПВХ, надпис: вулиця Кирилівська  30/5  До закінчення акції 00 днів :05 годин :26 хвилин :00 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => alla1-looklike400-bilshe
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 18:34:29
+ADD_LEAD
+Array
+(
+    [result] => 42617
+    [time] => Array
+        (
+            [start] => 1588606468.4607
+            [finish] => 1588606469.3424
+            [duration] => 0.88168382644653
+            [processing] => 0.85867285728455
+            [date_start] => 2020-05-04T18:34:28+03:00
+            [date_finish] => 2020-05-04T18:34:29+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 18:36:23
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Тарас
+            [OPPORTUNITY] => 350
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0973193230
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-03, колір  Голубий, розмір стандарт, ламінація, ПВХ, надпис: вулиця Січових Стрільців 13  До закінчення акції 00 днів :05 годин :23 хвилин :56 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 18:36:24
+ADD_LEAD
+Array
+(
+    [result] => 42619
+    [time] => Array
+        (
+            [start] => 1588606583.8415
+            [finish] => 1588606584.6925
+            [duration] => 0.85100102424622
+            [processing] => 0.83324694633484
+            [date_start] => 2020-05-04T18:36:23+03:00
+            [date_finish] => 2020-05-04T18:36:24+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 18:53:55
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Руслан
+            [OPPORTUNITY] => 380
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0992244064
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Синий, розмір стандарт, ламінація, ПВХ, надпис: вулиця І.Виговського 54  До окончания акции 00 дней :05 часов :07 минут :10 секунд 
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => pidpis
+            [UTM_CAMPAIGN] => 
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 18:53:55
+ADD_LEAD
+Array
+(
+    [result] => 42625
+    [time] => Array
+        (
+            [start] => 1588607635.116
+            [finish] => 1588607635.8733
+            [duration] => 0.75730085372925
+            [processing] => 0.736576795578
+            [date_start] => 2020-05-04T18:53:55+03:00
+            [date_finish] => 2020-05-04T18:53:55+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 18:55:47
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Александр
+            [EMAIL] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => nan_1103@ukr.net
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0503273844
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => До закінчення акції 00 днів :05 годин :05 хвилин :11 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => alla1-looklike400-bilshe
+            [UTM_CAMPAIGN] => ssilka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 18:55:48
+ADD_LEAD
+Array
+(
+    [result] => 42627
+    [time] => Array
+        (
+            [start] => 1588607747.6012
+            [finish] => 1588607748.3304
+            [duration] => 0.72922301292419
+            [processing] => 0.71195006370544
+            [date_start] => 2020-05-04T18:55:47+03:00
+            [date_finish] => 2020-05-04T18:55:48+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 20:01:01
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Михаил
+            [OPPORTUNITY] => 690
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0505005492
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Коричневий, розмір стандарт, ламінація, свердління дірок, наклейки, комозит, кріплення для цегли, надпис: вулиця Павлова 42  До закінчення акції 00 днів :03 годин :59 хвилин :38 секунд 
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => alla1-looklike400
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 20:01:02
+ADD_LEAD
+Array
+(
+    [result] => 42651
+    [time] => Array
+        (
+            [start] => 1588611661.7758
+            [finish] => 1588611662.6294
+            [duration] => 0.85364484786987
+            [processing] => 0.81622505187988
+            [date_start] => 2020-05-04T20:01:01+03:00
+            [date_finish] => 2020-05-04T20:01:02+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 20:03:04
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Степан Гнатишин
+            [OPPORTUNITY] => 240
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0505230572
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-04, колір  Коричневий, розмір стандарт, ламінація, ПВХ, надпис: вулиця Р. Шухевича 128  До закінчення акції 00 днів :03 годин :57 хвилин :44 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => ssilka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 20:03:05
+ADD_LEAD
+Array
+(
+    [result] => 42653
+    [time] => Array
+        (
+            [start] => 1588611785.0391
+            [finish] => 1588611785.8307
+            [duration] => 0.79163694381714
+            [processing] => 0.77397298812866
+            [date_start] => 2020-05-04T20:03:05+03:00
+            [date_finish] => 2020-05-04T20:03:05+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 20:24:56
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Виктория
+            [OPPORTUNITY] => 330
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0509280551
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-01, колір  Синій, розмір стандарт, ламінація, ПВХ, надпис: вулиця Дежнёва 12  До закінчення акції 00 днів :03 годин :35 хвилин :42 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 29-04-katya-1
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 20:24:57
+ADD_LEAD
+Array
+(
+    [result] => 42661
+    [time] => Array
+        (
+            [start] => 1588613097.0788
+            [finish] => 1588613097.8152
+            [duration] => 0.73641896247864
+            [processing] => 0.71761393547058
+            [date_start] => 2020-05-04T20:24:57+03:00
+            [date_finish] => 2020-05-04T20:24:57+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 20:42:23
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Марина
+            [OPPORTUNITY] => 370
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0975339436
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-01, колір  Коричневий, розмір стандарт, ламінація, ПВХ, кріплення для профнастилу, надпис: провулок Весніна 18  До закінчення акції 00 днів :03 годин :18 хвилин :08 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_katay
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 20:42:24
+ADD_LEAD
+Array
+(
+    [result] => 42665
+    [time] => Array
+        (
+            [start] => 1588614144.1331
+            [finish] => 1588614144.891
+            [duration] => 0.75796890258789
+            [processing] => 0.74202680587769
+            [date_start] => 2020-05-04T20:42:24+03:00
+            [date_finish] => 2020-05-04T20:42:24+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 20:48:53
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Ігор
+            [OPPORTUNITY] => 380
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0674128056
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Коричневий, розмір стандарт, ламінація, ПВХ, надпис: вулиця Сагайдачного 4  До закінчення акції 00 днів :03 годин :11 хвилин :36 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 20:48:54
+ADD_LEAD
+Array
+(
+    [result] => 42669
+    [time] => Array
+        (
+            [start] => 1588614533.9394
+            [finish] => 1588614534.6914
+            [duration] => 0.75200700759888
+            [processing] => 0.73162913322449
+            [date_start] => 2020-05-04T20:48:53+03:00
+            [date_finish] => 2020-05-04T20:48:54+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 20:48:55
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Ігор
+            [OPPORTUNITY] => 380
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0674128056
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Коричневий, розмір стандарт, ламінація, ПВХ, надпис: вулиця Сагайдачного 4  До закінчення акції 00 днів :03 годин :11 хвилин :36 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 20:48:56
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Ігор
+            [OPPORTUNITY] => 380
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0674128056
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Коричневий, розмір стандарт, ламінація, ПВХ, надпис: вулиця Сагайдачного 4  До закінчення акції 00 днів :03 годин :11 хвилин :36 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 20:48:56
+ADD_LEAD
+Array
+(
+    [result] => 42671
+    [time] => Array
+        (
+            [start] => 1588614535.9274
+            [finish] => 1588614536.6753
+            [duration] => 0.74795699119568
+            [processing] => 0.72816586494446
+            [date_start] => 2020-05-04T20:48:55+03:00
+            [date_finish] => 2020-05-04T20:48:56+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 20:48:57
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Ігор
+            [OPPORTUNITY] => 380
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0674128056
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Коричневий, розмір стандарт, ламінація, ПВХ, надпис: вулиця Сагайдачного 4  До закінчення акції 00 днів :03 годин :11 хвилин :36 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 20:48:57
+ADD_LEAD
+Array
+(
+    [result] => 42673
+    [time] => Array
+        (
+            [start] => 1588614536.7368
+            [finish] => 1588614537.4852
+            [duration] => 0.74831795692444
+            [processing] => 0.73065400123596
+            [date_start] => 2020-05-04T20:48:56+03:00
+            [date_finish] => 2020-05-04T20:48:57+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 20:48:57
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Ігор
+            [OPPORTUNITY] => 380
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0674128056
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Коричневий, розмір стандарт, ламінація, ПВХ, надпис: вулиця Сагайдачного 4  До закінчення акції 00 днів :03 годин :11 хвилин :36 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 20:48:58
+ADD_LEAD
+Array
+(
+    [result] => 42675
+    [time] => Array
+        (
+            [start] => 1588614537.3686
+            [finish] => 1588614538.0824
+            [duration] => 0.71373510360718
+            [processing] => 0.69589400291443
+            [date_start] => 2020-05-04T20:48:57+03:00
+            [date_finish] => 2020-05-04T20:48:58+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 20:48:58
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Ігор
+            [OPPORTUNITY] => 380
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0674128056
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Коричневий, розмір стандарт, ламінація, ПВХ, надпис: вулиця Сагайдачного 4  До закінчення акції 00 днів :03 годин :11 хвилин :36 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 20:48:58
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Ігор
+            [OPPORTUNITY] => 380
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0674128056
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Коричневий, розмір стандарт, ламінація, ПВХ, надпис: вулиця Сагайдачного 4  До закінчення акції 00 днів :03 годин :11 хвилин :36 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 20:48:58
+ADD_LEAD
+Array
+(
+    [result] => 42677
+    [time] => Array
+        (
+            [start] => 1588614538.1082
+            [finish] => 1588614538.8725
+            [duration] => 0.76425313949585
+            [processing] => 0.74390411376953
+            [date_start] => 2020-05-04T20:48:58+03:00
+            [date_finish] => 2020-05-04T20:48:58+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 20:48:59
+ADD_LEAD
+Array
+(
+    [result] => 42679
+    [time] => Array
+        (
+            [start] => 1588614538.2698
+            [finish] => 1588614539.0556
+            [duration] => 0.78588795661926
+            [processing] => 0.76646995544434
+            [date_start] => 2020-05-04T20:48:58+03:00
+            [date_finish] => 2020-05-04T20:48:59+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 20:48:59
+ADD_LEAD
+Array
+(
+    [result] => 42681
+    [time] => Array
+        (
+            [start] => 1588614538.6737
+            [finish] => 1588614539.436
+            [duration] => 0.76236605644226
+            [processing] => 0.74301314353943
+            [date_start] => 2020-05-04T20:48:58+03:00
+            [date_finish] => 2020-05-04T20:48:59+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 20:57:09
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Ігор 
+            [OPPORTUNITY] => 380
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0674128056
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Коричневий, розмір стандарт, ламінація, ПВХ, надпис: вулиця Польова 3  До закінчення акції 00 днів :03 годин :03 хвилин :10 секунд
+            [UTM_SOURCE] => 
+            [UTM_MEDIUM] => 
+            [UTM_CAMPAIGN] => 
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 20:57:09
+ADD_LEAD
+Array
+(
+    [result] => 42687
+    [time] => Array
+        (
+            [start] => 1588615029.2483
+            [finish] => 1588615029.9296
+            [duration] => 0.68126201629639
+            [processing] => 0.66422605514526
+            [date_start] => 2020-05-04T20:57:09+03:00
+            [date_finish] => 2020-05-04T20:57:09+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 21:06:15
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Олександр
+            [OPPORTUNITY] => 380
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0980646309
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Тёмно-зелёный, розмір стандарт, ламінація, ПВХ, надпис: вулиця Волі 3а  До окончания акции 00 дней :02 часов :54 минут :18 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => pidpis
+            [UTM_CAMPAIGN] => 
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 21:06:16
+ADD_LEAD
+Array
+(
+    [result] => 42689
+    [time] => Array
+        (
+            [start] => 1588615575.8124
+            [finish] => 1588615576.5807
+            [duration] => 0.76828598976135
+            [processing] => 0.74911713600159
+            [date_start] => 2020-05-04T21:06:15+03:00
+            [date_finish] => 2020-05-04T21:06:16+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 21:09:14
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Виталий
+            [OPPORTUNITY] => 470
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 380971478905
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Коричневий, розмір стандарт, ламінація, свердління дірок, ПВХ, кріплення для цегли, надпис: вулиця Овідіопольська 17  До закінчення акції 00 днів :02 годин :51 хвилин :35 секунд
+            [UTM_SOURCE] => inst
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 21:09:15
+ADD_LEAD
+Array
+(
+    [result] => 42691
+    [time] => Array
+        (
+            [start] => 1588615755.1508
+            [finish] => 1588615755.8905
+            [duration] => 0.73972797393799
+            [processing] => 0.71934199333191
+            [date_start] => 2020-05-04T21:09:15+03:00
+            [date_finish] => 2020-05-04T21:09:15+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 21:34:01
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Сергей
+            [OPPORTUNITY] => 240
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0504585020
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-06, колір  Темно-зелений, розмір стандарт, ламінація, ПВХ, надпис: вулиця Центральна 33  До закінчення акції 00 днів :02 годин :26 хвилин :48 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => ssilka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 21:34:02
+ADD_LEAD
+Array
+(
+    [result] => 42699
+    [time] => Array
+        (
+            [start] => 1588617241.6361
+            [finish] => 1588617242.4293
+            [duration] => 0.79318118095398
+            [processing] => 0.76298594474792
+            [date_start] => 2020-05-04T21:34:01+03:00
+            [date_finish] => 2020-05-04T21:34:02+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 21:41:42
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Константин
+            [OPPORTUNITY] => 460
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0953648727
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Коричневый, розмір стандарт, ламінація, свердління дірок, наклейки, ПВХ, надпис: провулок Гагаріна 18 б  До окончания акции 00 дней :02 часов :19 минут :12 секунд
+            [UTM_SOURCE] => fb_ru
+            [UTM_MEDIUM] => 2video_katay
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 21:41:43
+ADD_LEAD
+Array
+(
+    [result] => 42701
+    [time] => Array
+        (
+            [start] => 1588617702.7028
+            [finish] => 1588617703.4181
+            [duration] => 0.71525192260742
+            [processing] => 0.69839692115784
+            [date_start] => 2020-05-04T21:41:42+03:00
+            [date_finish] => 2020-05-04T21:41:43+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 21:44:55
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Тетяна
+            [OPPORTUNITY] => 850
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0979083168
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Коричневий (світловідбиваючий), розмір стандарт, ламінація, свердління дірок, наклейки, ПВХ, кріплення для цегли, надпис: Провулок  Гостинний 11  До закінчення акції 00 днів :02 годин :15 хвилин :33 секунд 
+            [UTM_SOURCE] => inst
+            [UTM_MEDIUM] => 0405-olga_kramar
+            [UTM_CAMPAIGN] => ssilka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 21:44:55
+ADD_LEAD
+Array
+(
+    [result] => 42703
+    [time] => Array
+        (
+            [start] => 1588617895.2156
+            [finish] => 1588617895.9179
+            [duration] => 0.70234990119934
+            [processing] => 0.68018317222595
+            [date_start] => 2020-05-04T21:44:55+03:00
+            [date_finish] => 2020-05-04T21:44:55+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 22:05:33
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Ігор
+            [OPPORTUNITY] => 590
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0503000753
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-01, колір  Коричневий, розмір стандарт, ламінація, наклейки, комозит, кріплення для цегли, надпис: вулиця Мира 34  До закінчення акції 00 днів :01 годин :55 хвилин :56 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 22:05:34
+ADD_LEAD
+Array
+(
+    [result] => 42705
+    [time] => Array
+        (
+            [start] => 1588619133.9057
+            [finish] => 1588619134.6072
+            [duration] => 0.70154905319214
+            [processing] => 0.68383312225342
+            [date_start] => 2020-05-04T22:05:33+03:00
+            [date_finish] => 2020-05-04T22:05:34+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 22:23:32
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Юрий 
+            [OPPORTUNITY] => 330
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0973375949
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-01, колір  Тёмно-зелёный, розмір стандарт, ламінація, ПВХ, надпис: вулиця Смирикова 14 а  До окончания акции 00 дней :01 часов :38 минут :03 секунд
+            [UTM_SOURCE] => fb_ru
+            [UTM_MEDIUM] => 2video_katay
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 22:23:33
+ADD_LEAD
+Array
+(
+    [result] => 42709
+    [time] => Array
+        (
+            [start] => 1588620212.3952
+            [finish] => 1588620213.1236
+            [duration] => 0.72841095924377
+            [processing] => 0.71085214614868
+            [date_start] => 2020-05-04T22:23:32+03:00
+            [date_finish] => 2020-05-04T22:23:33+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 22:29:53
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Арнольд
+            [OPPORTUNITY] => 240
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0506752516
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-05, колір  Синій, розмір стандарт, ламінація, ПВХ, надпис: вулиця Борканюка 46  До закінчення акції 00 днів :01 годин :31 хвилин :00 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => alla1-looklike400
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 22:29:54
+ADD_LEAD
+Array
+(
+    [result] => 42711
+    [time] => Array
+        (
+            [start] => 1588620594.0816
+            [finish] => 1588620594.8301
+            [duration] => 0.7485020160675
+            [processing] => 0.72906994819641
+            [date_start] => 2020-05-04T22:29:54+03:00
+            [date_finish] => 2020-05-04T22:29:54+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 22:31:24
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Олена
+            [OPPORTUNITY] => 330
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0970560762
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-01, колір  Бордовый, розмір стандарт, ламінація, ПВХ, надпис: вулиця Нєкрасова 90  До окончания акции 00 дней :01 часов :29 минут :28 секунд
+            [UTM_SOURCE] => fb_ru
+            [UTM_MEDIUM] => 2video_katay
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 22:31:25
+ADD_LEAD
+Array
+(
+    [result] => 42715
+    [time] => Array
+        (
+            [start] => 1588620684.7636
+            [finish] => 1588620685.5152
+            [duration] => 0.7516040802002
+            [processing] => 0.73435997962952
+            [date_start] => 2020-05-04T22:31:24+03:00
+            [date_finish] => 2020-05-04T22:31:25+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 22:36:25
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Юлія
+            [OPPORTUNITY] => 240
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0686789670
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-04, колір  Синій, розмір стандарт, ламінація, ПВХ, надпис: Провулок  Миру 3  До закінчення акції 00 днів :01 годин :24 хвилин :37 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 22:36:25
+ADD_LEAD
+Array
+(
+    [result] => 42721
+    [time] => Array
+        (
+            [start] => 1588620985.2169
+            [finish] => 1588620985.9691
+            [duration] => 0.75215482711792
+            [processing] => 0.72905921936035
+            [date_start] => 2020-05-04T22:36:25+03:00
+            [date_finish] => 2020-05-04T22:36:25+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 22:45:46
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Игорь 
+            [OPPORTUNITY] => 380
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0930189669
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Синий, розмір стандарт, ламінація, ПВХ, надпис: улица  Черноморцев  29  До окончания акции 00 дней :01 часов :15 минут :06 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => pidpis
+            [UTM_CAMPAIGN] => 
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 22:45:47
+ADD_LEAD
+Array
+(
+    [result] => 42723
+    [time] => Array
+        (
+            [start] => 1588621546.8813
+            [finish] => 1588621547.6337
+            [duration] => 0.75235509872437
+            [processing] => 0.73480701446533
+            [date_start] => 2020-05-04T22:45:46+03:00
+            [date_finish] => 2020-05-04T22:45:47+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 23:02:41
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Оксана наритник
+            [OPPORTUNITY] => 730
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0968552237
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-02, колір  Голубий (сітловідбиваючий), розмір стандарт, ламінація, ПВХ, надпис: Вулиця Валова 22  До закінчення акції 00 днів :00 годин :58 хвилин :08 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => 1video_alla
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 23:02:42
+ADD_LEAD
+Array
+(
+    [result] => 42729
+    [time] => Array
+        (
+            [start] => 1588622561.8844
+            [finish] => 1588622562.6481
+            [duration] => 0.76371812820435
+            [processing] => 0.7429940700531
+            [date_start] => 2020-05-04T23:02:41+03:00
+            [date_finish] => 2020-05-04T23:02:42+03:00
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 23:19:34
+PARAMS
+Array
+(
+    [fields] => Array
+        (
+            [TITLE] => Новий лід з ADRES.D-SV.COM.UA
+            [NAME] => Ирина
+            [OPPORTUNITY] => 870
+            [CURRENCY_ID] => UAH
+            [PHONE] => Array
+                (
+                    [0] => Array
+                        (
+                            [VALUE] => 0976605063
+                            [VALUE_TYPE] => WORK
+                        )
+
+                )
+
+            [COMMENTS] => Тип форми type-04, колір  Зелений (світловідбиваючий), розмір стандарт, ламінація, свердління дірок, комозит, кріплення для профнастилу, надпис: Провулок Нагiрний 5 г  До закінчення акції 00 днів :00 годин :41 хвилин :25 секунд
+            [UTM_SOURCE] => fb
+            [UTM_MEDIUM] => alla1-looklike400
+            [UTM_CAMPAIGN] => knopka
+            [UTM_CONTENT] => 
+            [UTM_TERM] => 
+        )
+
+)
+
+------------------------
+
+------------------------
+2020.05.04 23:19:35
+ADD_LEAD
+Array
+(
+    [result] => 42733
+    [time] => Array
+        (
+            [start] => 1588623574.7347
+            [finish] => 1588623575.4719
+            [duration] => 0.73715686798096
+            [processing] => 0.71581602096558
+            [date_start] => 2020-05-04T23:19:34+03:00
+            [date_finish] => 2020-05-04T23:19:35+03:00
+        )
+
+)
+
+------------------------
